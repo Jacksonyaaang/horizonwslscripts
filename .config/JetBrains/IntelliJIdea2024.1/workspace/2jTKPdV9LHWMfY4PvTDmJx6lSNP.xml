@@ -1,0 +1,1088 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hmm-dma" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="q9okuhkrc94h" SIDE_TABS_SIZE_LIMIT_KEY="2147483647">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imc-dma-router/doc/DMA_CustomFields.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1000">
+              <caret line="25" column="96" selection-start-line="25" selection-start-column="96" selection-end-line="25" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/DMROrderChannel.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="555">
+              <caret line="280" selection-start-line="280" selection-end-line="280" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/impl/InsertCtrl.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="920">
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dma-api/src/main/java/com/hsoft/dma/api/router/DMATransactionPlugin.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1000">
+              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding>
+                <element signature="e#2276#2277#0" expanded="true" />
+                <element signature="e#2297#2298#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/impl/DMATransactionPluginUnit.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2320">
+              <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+              <folding>
+                <element signature="e#1400#1401#0" expanded="true" />
+                <element signature="e#1444#1445#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 700,
+      "lastUsed": 1723213502976
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1721413713709
+    },
+    "CLASS": {
+      "usageCount": 92,
+      "lastUsed": 1722831679975
+    },
+    "DIFF": {
+      "usageCount": 56,
+      "lastUsed": 1722835662959
+    },
+    "Properties": {
+      "usageCount": 1,
+      "lastUsed": 1721691968792
+    },
+    "UML": {
+      "usageCount": 1,
+      "lastUsed": 1721696804229
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 51,
+      "lastUsed": 1723213501819
+    },
+    "XML": {
+      "usageCount": 11,
+      "lastUsed": 1722695152151
+    },
+    "ReST": {
+      "usageCount": 10,
+      "lastUsed": 1722332973375
+    },
+    "Gradle": {
+      "usageCount": 9,
+      "lastUsed": 1722348181296
+    },
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1722657097531
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>opera</find>
+      <find>JComboBox operatorCombo = new</find>
+      <find>positio</find>
+      <find>&quot;=&quot;</find>
+      <find>operator</find>
+      <find>value should be a number</find>
+      <find>pourquoidede</find>
+      <find>rejected</find>
+      <find>REJECTED</find>
+      <find>orderstatus.REJECTED</find>
+      <find>isnew</find>
+      <find>getPredicate</find>
+      <find>onorderinser</find>
+      <find>evaluate</find>
+      <find>range_exclu</find>
+      <find>range_exc</find>
+      <find>range_excl</find>
+      <find>exclusive</find>
+      <find>IN_RANGE_EXCLUSIVE</find>
+      <find>publishOrderStatusUpdate</find>
+      <find>handleUpdateEvent</find>
+      <find>handleInsertEvent</find>
+      <find>handleDeleteEvent</find>
+      <find>positionEffect</find>
+      <find>customfi</find>
+      <find>customfield</find>
+      <find>price</find>
+      <find>in_range</find>
+      <find>getDoublePredicate</find>
+      <find>predicateTest_IN_RANGE</find>
+      <find>Until any modification have been made in this view</find>
+      <find>the ones above (moving up) or with the ones bellow (moving down</find>
+      <find>A few particularities, concerning operator</find>
+      <find>Apply rules edition</find>
+      <find>Once rules have been edited, they have to be valid, and then be registered in database</find>
+      <find>is enable only after validation without errors. Save present rules in database</find>
+      <find>operator must be one of</find>
+      <find>can be used when criteria are expected to</find>
+      <find>public PluginViewRestorationInfo getRestorationInfo()</find>
+      <find>public PluginViewRestorationInfo getRestorationInfo</find>
+      <find>PluginViewRestorationInfo restoreInfo = new</find>
+      <find>list of tab</find>
+      <find>applyrestorationinfgo</find>
+      <find>applpy</find>
+      <find>save</find>
+      <find>SELECTED_TAB_PROP</find>
+      <find>CompositeDMAApi</find>
+      <find>if (criterionRow.getOperator().equals(&quot;in_range&quot;)){</find>
+      <find>if (!criterionValue.matches(&quot;[\\[\\(].+;.+[\\]\\)]&quot;))</find>
+      <find>ordeqsfdfqsfdr</find>
+      <find>criterionValue.matches(&quot;[\\[\\(].+;.+[\\]\\)]</find>
+      <find>DMAPredicates.java</find>
+      <find>Double</find>
+      <find>Double upper</find>
+      <find>value should</find>
+      <find>ltomsorderchannel</find>
+      <find>publishLTOMS</find>
+      <find>release re</find>
+      <find>selectedtabpro</find>
+      <find>SelectedTab</find>
+      <find>SelectedTa</find>
+      <find>SelectedTabIndex</find>
+      <find>else if (Objects.equals(criterionRow.getOperator(), &quot;in_range&quot;)){</find>
+      <find>ltomschannel</find>
+      <find>range</find>
+      <find>isnewly</find>
+      <find>unsupport</find>
+      <find>35=</find>
+      <find>evaluate(</find>
+      <find>dma routing</find>
+      <find>Duplicate</find>
+      <find>quantity</find>
+      <find>dumper</find>
+      <find>fix</find>
+      <find>LTOMSTestListener listener</find>
+      <find>jackson</find>
+      <find>resubmit</find>
+      <find>DumperTrxChannel dmpTrxChannel = setDumperToNAK</find>
+      <find>reject from</find>
+      <find>order</find>
+      <find>resubmi</find>
+      <find>notification</find>
+      <find>release</find>
+      <find>release rejec</find>
+      <find>rejection</find>
+      <find>sendEvent</find>
+      <find />
+      <find>Order order = clientOT.order</find>
+      <find>sendevent</find>
+      <find>cancel</find>
+      <find>public void testVoidCancelled() throws Exception</find>
+      <find>notifi</find>
+      <find>BypassRoutingRules</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>in_range</replace>
+      <replace>IN_RANGE</replace>
+      <replace>if (Objects.equals(criterionRow.getOperator(), &quot;in_range&quot;)){</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/order</dir>
+      <dir>$PROJECT_DIR$/hmm-plugin-dma/src/conf/brokerViewer</dir>
+      <dir>$PROJECT_DIR$/dma-broker-plugin/database/generator/xml</dir>
+      <dir>$PROJECT_DIR$/dma-tables/src/main/java/com/hsoft/hmm/dma/broker/tables</dir>
+      <dir>$PROJECT_DIR$/tests/src/test/java/com/hsoft/dma</dir>
+      <dir>$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/component</dir>
+      <dir>$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/dma/rules/routingtables</dir>
+      <dir>$PROJECT_DIR$/hmm-plugin-dma/doc</dir>
+      <dir>$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/dma/rules/routingtables/criteria</dir>
+      <dir>$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/criteria</dir>
+      <dir>$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/views</dir>
+      <dir>$PROJECT_DIR$/imc-ltoms/src/main/java/com/hsoft/imc/ltoms</dir>
+      <dir>$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/utils</dir>
+      <dir>$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma</dir>
+      <dir>$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables</dir>
+      <dir>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk-imc/test-imc-utils/27.192.0/cbfc006fe04972f3beb55c2fccb5cf24f4a04e3c/test-imc-utils-27.192.0.jar!/com/ingalys/test</dir>
+      <dir>$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/ltoms</dir>
+      <dir>$PROJECT_DIR$/notify-ltoms-watcher/src/test/java/com/hsoft/notify/watcher/ltoms</dir>
+      <dir>$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/imc-dma-router/doc</dir>
+      <dir>$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="baf65d7a:GitBranchesTreeModel$RecentNode" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+      </path>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="REMOTE" type="ae103dac:GitBranchType" />
+        <item name="REMOTE/[origin]" type="f52d67ed:GitBranchesTreeModel$BranchesPrefixGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/notify-ltoms-watcher/src/main/java/com/hsoft/notify/watcher/ltoms/NotifyLtomsWatcherBuilder.java" />
+      <option value="$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/DMACriteriaFactory.java" />
+      <option value="$PROJECT_DIR$/dma-api-data/src/main/java/com/hsoft/hmm/api/dmaroutingrulecriteria/spi/DefaultDMARoutingRuleCriteria.java" />
+      <option value="$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/TableRoutingRule.java" />
+      <option value="$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/order/OrderStatus.java" />
+      <option value="$PROJECT_DIR$/hmm-plugin-dma/src/conf/brokerViewer/broker_viewer_DMARoutingRuleCriteria" />
+      <option value="$PROJECT_DIR$/dma-broker-plugin/database/generator/xml/DMARoutingRuleCriteria.xml" />
+      <option value="$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/Operator.java" />
+      <option value="$PROJECT_DIR$/dma-tables/src/main/java/com/hsoft/hmm/dma/broker/tables/Tbl_DMARoutingRuleCriteria.java" />
+      <option value="$PROJECT_DIR$/imc-dma-router/doc/DMA_Hook_RoutingTable.txt" />
+      <option value="$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/utils/DMARoutingRuleModel.java" />
+      <option value="$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/TableRoutingRulePlugin.java" />
+      <option value="$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/dma/rules/routingtables/criteria/PriceExtractorTest.java" />
+      <option value="$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/dma/rules/routingtables/criteria/CustomFieldExtractorTest.java" />
+      <option value="$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/dma/rules/routingtables/TableRoutingRulePluginTest.java" />
+      <option value="$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/utils/RangeValidator.java" />
+      <option value="$PROJECT_DIR$/hmm-plugin-dma/src/test/java/horizontrader/plugins/hmm/dma/component/DmaOrderViewTest.java" />
+      <option value="$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/views/DMAOrderView.java" />
+      <option value="$PROJECT_DIR$/hmm-plugin-dma/doc/DMA-0100-DMARULEEDITIONVIEWTOC.rst" />
+      <option value="$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/criteria/DMAPredicates.java" />
+      <option value="$PROJECT_DIR$/imc-ltoms/src/main/java/com/hsoft/imc/ltoms/LTOMSOrderChannel.java" />
+      <option value="$PROJECT_DIR$/notify-ltoms-watcher/src/main/java/com/hsoft/notify/watcher/ltoms/NotifyLtomsWatcher.java" />
+      <option value="$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/utils/RoutingRuleValidation.java" />
+      <option value="$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/ltoms/LTOMSModuleTest.java" />
+      <option value="$PROJECT_DIR$/notify-ltoms-watcher/src/test/java/com/hsoft/notify/watcher/ltoms/LtomsNotificationModuleTest.java" />
+      <option value="$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/DMROrderChannel.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="9" lastUsage="1722348181296" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="700" lastUsage="1723213502976" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1722657097531" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1721691968792" />
+    </language>
+    <language id="ReST">
+      <summary usageCount="10" lastUsage="1722332973375" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="51" lastUsage="1723213501819" />
+    </language>
+    <language id="XML">
+      <summary usageCount="11" lastUsage="1722695152151" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hmm-dma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-dma}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.LtomsNotificationModuleTest.testOrderResubmitWithPriceChange" />
+      <element setting="Gradle.LTOMSModuleTest.shouldEditAndResubmitOrderWithCorrectedPrice" />
+      <element setting="Gradle.LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" />
+      <element setting="Gradle.LtomsNotificationModuleTest.testSubscriptions" />
+      <element setting="Gradle.hmm-dma [publish]" />
+      <element setting="Gradle./home/jks/projects/hmm-dma [publish]" />
+      <element setting="Gradle.CustomFieldExtractorTest.predicateTest_IN_RANGE_Decimal" />
+      <element setting="Gradle.CustomFieldExtractorTest.predicateTest_IN_RANGE_Integer" />
+      <element setting="Gradle.PriceExtractorTest.predicateTest_IN_RANGE_DecimalValues" />
+      <element setting="Gradle.PriceExtractorTest.predicateTest_IN_RANGE" />
+      <element setting="Gradle.CustomFieldExtractorTest.predicateTest_IN_RANGE" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="LtomsNotificationModuleTest_testSubscriptions - 2024.08.04 at 11h 02m 54s.xml">
+      <configuration name="LtomsNotificationModuleTest.testSubscriptions" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testEditAndResubmitOrderTriggersCorrectNotification - 2024.08.04 at 11h 03m 19s.xml">
+      <configuration name="LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testEditAndResubmitOrderTriggersCorrectNotification - 2024.08.04 at 11h 04m 00s.xml">
+      <configuration name="LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testEditAndResubmitOrderTriggersCorrectNotification - 2024.08.04 at 11h 05m 06s.xml">
+      <configuration name="LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testEditAndResubmitOrderTriggersCorrectNotification - 2024.08.04 at 11h 05m 47s.xml">
+      <configuration name="LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testEditAndResubmitOrderTriggersCorrectNotification - 2024.08.04 at 11h 23m 19s.xml">
+      <configuration name="LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testEditAndResubmitOrderTriggersCorrectNotification - 2024.08.04 at 11h 28m 26s.xml">
+      <configuration name="LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LTOMSModuleTest_shouldEditAndResubmitOrderWithCorrectedPrice - 2024.08.04 at 11h 34m 58s.xml">
+      <configuration name="LTOMSModuleTest.shouldEditAndResubmitOrderWithCorrectedPrice" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testEditAndResubmitOrderTriggersCorrectNotification - 2024.08.04 at 11h 29m 17s.xml">
+      <configuration name="LtomsNotificationModuleTest.testEditAndResubmitOrderTriggersCorrectNotification" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="LtomsNotificationModuleTest_testOrderResubmitWithPriceChange - 2024.08.05 at 06h 34m 32s.xml">
+      <configuration name="LtomsNotificationModuleTest.testOrderResubmitWithPriceChange" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="162930000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Settings Sync History" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15221354" />
+      <window_info id="Commit" order="1" weight="0.15221354" />
+      <window_info id="Bookmarks" order="2" side_tool="true" weight="0.10403646" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.10403646" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="internal-profiler" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.17599806" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3298442" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.26655307" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.45983446" />
+      <window_info anchor="bottom" id="Python Packages" order="6" weight="0.45983446" />
+      <window_info anchor="bottom" id="PackageSearch" order="7" />
+      <window_info anchor="bottom" id="SequenceDiagram" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.23296008" />
+      <window_info active="true" anchor="bottom" id="Debug" order="10" visible="true" weight="0.09420642" />
+      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.25925025" />
+      <window_info anchor="right" id="sbt" show_stripe_button="false" />
+      <window_info anchor="right" id="Plots" show_stripe_button="false" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Beans" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" show_stripe_button="false" />
+      <window_info anchor="right" id="bsp" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.2287736" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.09309895" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.22877604" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="6" show_stripe_button="false" weight="0.22877604" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.09309895" />
+      <window_info anchor="right" id="Welcome to GitHub Copilot" order="8" show_stripe_button="false" side_tool="true" weight="0.2287736" />
+      <unified_weights bottom="0.17599806" left="0.15221354" right="0.09309895" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Version Control</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Bookmarks</value>
+      <value>Structure</value>
+      <value>Services</value>
+      <value>Python Packages</value>
+      <value>Build</value>
+      <value>SonarLint</value>
+      <value>Problems View</value>
+      <value>GitHub Copilot Chat</value>
+      <value>Gradle</value>
+      <value>Python Console</value>
+      <value>github.copilotToolWindow</value>
+      <value>Welcome to GitHub Copilot</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3494" y="877" width="1329" height="367" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1722259964148">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3494" y="877" width="1329" height="367" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722259964148" />
+    <state x="3245" y="897" width="717" height="417" key="#xdebugger.evaluate" timestamp="1722763486106">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3245" y="897" width="717" height="417" key="#xdebugger.evaluate/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722763486106" />
+    <state x="3484" y="927" width="771" height="660" key="#xdebugger.evaluate/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1721984578050" />
+    <state width="1916" height="461" key="DebuggerActiveHint" timestamp="1722764153152">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="1916" height="461" key="DebuggerActiveHint/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722764153152" />
+    <state width="1916" height="377" key="DebuggerActiveHint/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722596286959" />
+    <state width="525" height="644" key="Diff.GoToChangePopup" timestamp="1721691884095">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="525" height="644" key="Diff.GoToChangePopup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1721691884095" />
+    <state x="2474" y="352" width="2715" height="1394" key="DiffContextDialog" timestamp="1722836110471">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="2042" y="246" width="3481" height="1715" key="DiffContextDialog/0.0.5760.2160@0.0.5760.2160" timestamp="1721746320421" />
+    <state x="2474" y="352" width="2715" height="1394" key="DiffContextDialog/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722836110471" />
+    <state x="2474" y="352" width="2715" height="1394" key="DiffContextDialog/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722606943034" />
+    <state x="1899" y="15" width="3840" height="2125" key="DiffContextDialog/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722413381163" />
+    <state x="3522" y="707" key="FileChooserDialogImpl" timestamp="1723213514136">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3522" y="707" key="FileChooserDialogImpl/1920.0.3840.2088/0.1074.1920.1080@1920.0.3840.2088" timestamp="1723213514136" />
+    <state x="3522" y="707" key="FileChooserDialogImpl/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1721693536689" />
+    <state width="920" height="577" key="Git.Branch.Popup" timestamp="1722832617618">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="460" height="298" key="Git.Branch.Popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721405846411" />
+    <state width="920" height="577" key="Git.Branch.Popup/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722832617618" />
+    <state width="920" height="577" key="Git.Branch.Popup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722607279990" />
+    <state width="920" height="597" key="Git.Branch.Popup/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722412680547" />
+    <state x="3395" y="844" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog" timestamp="1722007067443">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3395" y="844" key="Git.Rebase.Log.Action.NewCommitMessage.Dialog/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722007067443" />
+    <state width="3740" height="448" key="GridCell.Tab.0.bottom" timestamp="1722832556345">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="1842" height="590" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1721406343611" />
+    <state width="3740" height="114" key="GridCell.Tab.0.bottom/0.0.5760.2160@0.0.5760.2160" timestamp="1721746316926" />
+    <state width="3740" height="448" key="GridCell.Tab.0.bottom/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722832556344" />
+    <state width="3740" height="240" key="GridCell.Tab.0.bottom/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="296" key="GridCell.Tab.0.bottom/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722608797304" />
+    <state width="3664" height="305" key="GridCell.Tab.0.bottom/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722356604941" />
+    <state width="3740" height="448" key="GridCell.Tab.0.center" timestamp="1722832556344">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="1842" height="590" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1721406343611" />
+    <state width="3740" height="114" key="GridCell.Tab.0.center/0.0.5760.2160@0.0.5760.2160" timestamp="1721746316926" />
+    <state width="3740" height="448" key="GridCell.Tab.0.center/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722832556344" />
+    <state width="3740" height="240" key="GridCell.Tab.0.center/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="296" key="GridCell.Tab.0.center/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722608797304" />
+    <state width="3664" height="305" key="GridCell.Tab.0.center/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722356604941" />
+    <state width="3740" height="448" key="GridCell.Tab.0.left" timestamp="1722832556343">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="1842" height="590" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1721406343610" />
+    <state width="3740" height="114" key="GridCell.Tab.0.left/0.0.5760.2160@0.0.5760.2160" timestamp="1721746316926" />
+    <state width="3740" height="448" key="GridCell.Tab.0.left/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722832556343" />
+    <state width="3740" height="240" key="GridCell.Tab.0.left/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="296" key="GridCell.Tab.0.left/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722608797304" />
+    <state width="3664" height="305" key="GridCell.Tab.0.left/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722356604941" />
+    <state width="3740" height="448" key="GridCell.Tab.0.right" timestamp="1722832556344">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="1842" height="590" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1721406343611" />
+    <state width="3740" height="114" key="GridCell.Tab.0.right/0.0.5760.2160@0.0.5760.2160" timestamp="1721746316926" />
+    <state width="3740" height="448" key="GridCell.Tab.0.right/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722832556344" />
+    <state width="3740" height="240" key="GridCell.Tab.0.right/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="296" key="GridCell.Tab.0.right/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722608797304" />
+    <state width="3664" height="305" key="GridCell.Tab.0.right/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722356604941" />
+    <state width="3740" height="628" key="GridCell.Tab.1.bottom" timestamp="1722764098941">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="3740" height="628" key="GridCell.Tab.1.bottom/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722764098941" />
+    <state width="3740" height="240" key="GridCell.Tab.1.bottom/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="179" key="GridCell.Tab.1.bottom/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722596640141" />
+    <state width="3740" height="628" key="GridCell.Tab.1.center" timestamp="1722764098941">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="3740" height="628" key="GridCell.Tab.1.center/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722764098941" />
+    <state width="3740" height="240" key="GridCell.Tab.1.center/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="179" key="GridCell.Tab.1.center/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722596640141" />
+    <state width="3740" height="628" key="GridCell.Tab.1.left" timestamp="1722764098941">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="3740" height="628" key="GridCell.Tab.1.left/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722764098941" />
+    <state width="3740" height="240" key="GridCell.Tab.1.left/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="179" key="GridCell.Tab.1.left/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722596640141" />
+    <state width="3740" height="628" key="GridCell.Tab.1.right" timestamp="1722764098941">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="3740" height="628" key="GridCell.Tab.1.right/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722764098941" />
+    <state width="3740" height="240" key="GridCell.Tab.1.right/1920.0.3840.2088/0.952.1920.1080@0.952.1920.1080" timestamp="1721736582323" />
+    <state width="3740" height="179" key="GridCell.Tab.1.right/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722596640141" />
+    <state x="4779" y="1803" width="960" height="211" key="ProcessPopupWindow" timestamp="1722585270545">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="4779" y="1803" width="960" height="211" key="ProcessPopupWindow/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722585270545" />
+    <state x="3557" y="660" key="RollbackChangesDialog" timestamp="1722835622565">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3557" y="660" key="RollbackChangesDialog/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722835622565" />
+    <state x="3557" y="660" key="RollbackChangesDialog/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722607277783" />
+    <state x="3165" y="610" width="1350" height="1050" key="SettingsEditor" timestamp="1722697006726">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="543" y="283" width="992" height="797" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1721417953176" />
+    <state x="2491" y="178" key="SettingsEditor/1920.0.1920.1044/0.952.960.540@1920.0.1920.1044" timestamp="1721645221431" />
+    <state x="3165" y="610" key="SettingsEditor/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722697006726" />
+    <state x="3165" y="610" width="1350" height="1050" key="SettingsEditor/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722607370874" />
+    <state width="960" height="421" key="ShowBookmarks" timestamp="1722353374362">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="960" height="421" key="ShowBookmarks/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722353374362" />
+    <state x="1888" y="-32" width="1276" height="917" key="Vcs.Push.Dialog.v2" timestamp="1722356673367">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3240" y="651" key="Vcs.Push.Dialog.v2/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722349116510" />
+    <state x="1888" y="-32" width="1276" height="917" key="Vcs.Push.Dialog.v2/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722356673367" />
+    <state width="1920" height="1027" key="XDebugger.FullValuePopup" timestamp="1722757937579">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state width="1920" height="1027" key="XDebugger.FullValuePopup/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722757937579" />
+    <state width="1920" height="1027" key="XDebugger.FullValuePopup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722596286840" />
+    <state x="3765" y="806" key="chooseDestDirectoryDialog" timestamp="1722259960394">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3765" y="806" key="chooseDestDirectoryDialog/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722259960394" />
+    <state x="3447" y="632" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1722327425027">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3447" y="632" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722327425027" />
+    <state x="3249" y="319" width="1487" height="1343" key="find.popup" timestamp="1722836157964">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="665" y="165" width="1086" height="846" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721739182253" />
+    <state x="3144" y="619" width="1658" height="1319" key="find.popup/0.0.5760.2160@0.0.5760.2160" timestamp="1721745746332" />
+    <state x="3249" y="319" width="1487" height="1343" key="find.popup/1920.0.3840.2088/0.943.1920.1080@1920.0.3840.2088" timestamp="1722836157964" />
+    <state x="3249" y="319" width="1487" height="1343" key="find.popup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722609210130" />
+    <state x="4016" y="619" width="1106" height="1319" key="find.popup/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722356361064" />
+    <state x="3092" y="422" width="1344" height="1399" key="run.anything.popup" timestamp="1722412724525">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="586" y="211" width="672" height="699" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721406343597" />
+    <state x="3092" y="408" width="1344" height="1352" key="run.anything.popup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722347082356" />
+    <state x="3092" y="422" width="1344" height="1399" key="run.anything.popup/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1722412724525" />
+    <state x="3154" y="400" width="1360" height="1346" key="search.everywhere.popup" timestamp="1722609219913">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="623" y="197" width="680" height="696" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721405883535" />
+    <state x="3154" y="400" width="1360" height="1346" key="search.everywhere.popup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1722609219913" />
+    <state x="3166" y="394" width="1360" height="1393" key="search.everywhere.popup/1920.0.3840.2160/0.952.1920.1080@1920.0.3840.2160" timestamp="1721746934174" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>notifiedOrder.getErrorMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>event.getFirst().getLastChildAction()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>event.getType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>bounds</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>criterionValue</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>lowerCheck &amp;&amp; upperCheck</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>engine.getClass().getName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>newLTOMS == null || !newLTOMS.isLtOrderActive()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/dma/rules/routingtables/criteria/PriceExtractorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4720">
+          <caret line="118" column="25" selection-start-line="118" selection-start-column="25" selection-end-line="118" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/TableRoutingRulePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9760">
+          <caret line="255" column="3" selection-start-line="255" selection-start-column="3" selection-end-line="255" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/build/rst/source/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/doc/DMA-0100-DMARULEEDITIONVIEWTOC.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/test/java/horizontrader/plugins/hmm/dma/component/DmaOrderViewTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7680">
+          <caret line="219" column="27" selection-start-line="219" selection-start-column="27" selection-end-line="219" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/order/OrderStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-notify/notify-client/0.48.0/dd5c2d58ce0c9cd1f29596d2be9db17aba5a08f3/notify-client-0.48.0.jar!/com/hsoft/notify/NotificationSeverity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/views/DMARoutingRuleEditionView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="955">
+          <caret line="85" column="11" lean-forward="true" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/DMAPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="161" column="8" lean-forward="true" selection-start-line="161" selection-start-column="8" selection-end-line="161" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/TableRoutingRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3800">
+          <caret line="97" column="36" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/views/DMARoutingRuleEditionViewFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/views/DMAOrderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1342">
+          <caret line="106" column="49" selection-start-line="106" selection-start-column="49" selection-end-line="106" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/utils/RoutingRuleValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="193" column="62" selection-start-line="193" selection-start-column="62" selection-end-line="193" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/routingtables/criteria/DMAPredicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.pending-changes/hmm-plugin-dma/ET-35549-fix-Support-inRange-operator-in-rules.md" />
+    <entry file="file://$PROJECT_DIR$/dma-test-utils/src/main/java/com/hsoft/dma/test/utils/DMAFixtures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-ltoms-watcher/src/main/java/com/hsoft/notify/watcher/ltoms/NotifyLtomsWatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/ltoms/LTOMSOrderIOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/dma/rules/routingtables/TableRoutingRulePluginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8000">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/src/test/java/com/hsoft/notify/watcher/dma/DMANotificationWatcherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-brokerage/brokerage-broker-plugin/7.48.0/7b628fa3052b79a90df5968562d0d09bb5e6b162/brokerage-broker-plugin-7.48.0.jar!/brokerage-broker-plugin/module.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dma-test-utils/src/main/java/com/hsoft/dma/test/utils/LTOMSFixtures.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/order/LTOMSOrderImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-testutils/16.0.0/569ecfb107dd8c34e448e81483888daad760dc5/hmm-broker-testutils-16.0.0.jar!/com/hsoft/hmm/soa/AbstractModuleTestWithBroker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/order/LTOMSOrderListEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/req/LTOMSResubmitReqImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/component/DMARoutingRuleEditionViewComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="395" selection-start-line="395" selection-end-line="395" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/src/test/java/com/hsoft/imc/ltoms/LTOMSModuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="704" column="69" lean-forward="true" selection-start-line="704" selection-start-column="69" selection-end-line="704" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk-imc/test-imc-utils/27.192.0/cbfc006fe04972f3beb55c2fccb5cf24f4a04e3c/test-imc-utils-27.192.0.jar!/com/ingalys/test/ITOTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="154" column="25" selection-start-line="154" selection-start-column="25" selection-end-line="154" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk-imc/imc/27.192.0/4e5707fd64f9b439e2a6debb1361cb39e2567958/imc-27.192.0.jar!/com/ingalys/imc/Actions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dma-test-utils/src/main/java/com/hsoft/dma/test/utils/AbstractLTOMSModuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/LTOMSRemoteApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3080">
+          <caret line="90" column="27" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ltoms-client/src/main/java/com/hsoft/ltoms/client/api/LTOMSRemoteApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="73" column="25" selection-start-line="73" selection-start-column="25" selection-end-line="73" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/actions/LTOMSActionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7960">
+          <caret line="237" column="53" selection-start-line="237" selection-start-column="53" selection-end-line="237" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/component/dialog/ReleaseEventDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-dma/src/main/java/horizontrader/plugins/hmm/dma/actions/LTOMSActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk-imc/test-imc-utils/27.192.0/cbfc006fe04972f3beb55c2fccb5cf24f4a04e3c/test-imc-utils-27.192.0.jar!/com/ingalys/test/OrderTester.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5440">
+          <caret line="141" column="17" selection-start-line="141" selection-start-column="17" selection-end-line="141" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-ltoms/src/test/java/com/hsoft/imc/ltoms/LTOMSOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1400">
+          <caret line="39" column="7" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk-core/i-test-utils/16.161.0/91f7987c843eb4c80b1ad8404e27d35b7fe9f74/i-test-utils-16.161.0.jar!/com/ingalys/junit/ConfigRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="843">
+          <caret line="167" column="31" lean-forward="true" selection-start-line="167" selection-start-column="31" selection-end-line="167" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-ltoms-watcher/src/main/java/com/hsoft/notify/watcher/ltoms/LtomsNotificationTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-ltoms-watcher/src/test/java/com/hsoft/notify/watcher/ltoms/LtomsNotificationModuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="122" column="52" lean-forward="true" selection-start-line="122" selection-start-column="52" selection-end-line="122" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-ltoms/src/main/java/com/hsoft/imc/ltoms/LTOMSOrderChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="158" column="50" lean-forward="true" selection-start-line="158" selection-start-column="50" selection-end-line="158" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/impl/Ctrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2200">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dma-api/src/main/java/com/hsoft/dma/api/cf/DMARouterCF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/doc/DMA_Hook_AlgoLink.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2040">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/DMROrderChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="280" selection-start-line="280" selection-end-line="280" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/doc/DMA_CustomFields.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="25" column="96" selection-start-line="25" selection-start-column="96" selection-end-line="25" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/impl/InsertCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dma-api/src/main/java/com/hsoft/dma/api/router/DMATransactionPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <element signature="e#2276#2277#0" expanded="true" />
+            <element signature="e#2297#2298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-dma-router/src/main/java/com/hsoft/imc/dma/rules/impl/DMATransactionPluginUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <folding>
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1444#1445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hmm-dma</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

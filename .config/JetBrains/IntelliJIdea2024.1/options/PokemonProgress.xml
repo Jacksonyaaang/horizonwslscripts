@@ -1,0 +1,6 @@
+<application>
+  <component name="com.kagof.intellij.plugins.pokeprogress.configuration.PokemonProgressState">
+    <option name="theme" value="smooth" />
+    <option name="colorScheme" value="1_Official" />
+  </component>
+</application>

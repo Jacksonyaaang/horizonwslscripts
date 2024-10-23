@@ -1,0 +1,23 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="true" />
+    <option name="confirmExit" value="false" />
+    <option name="confirmOpenNewProject2" value="0" />
+  </component>
+  <component name="Registry">
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="editor.focus.mode.color.light" value="777777" />
+    <entry key="editor.focus.mode.color.dark" value="777777" />
+    <entry key="ide.balloon.shadow.size" value="0" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
+    <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
+  </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="AIAssistant" value="false" />
+        <entry key="mtProjectFactory" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

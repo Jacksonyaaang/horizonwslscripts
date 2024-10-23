@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
+    <option name="smoothScrolling" value="false" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="LafManager">
+    <laf themeId="e843a6a0-d4df-4c2a-b5b6-99dcbb839b8d" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Darcula" scheme="_@user_Darcula" />
+      <laf-to-scheme laf="ExperimentalDark" scheme="_@user_Visual Studio Code Dark Plus" />
+      <laf-to-scheme laf="ee2824b3-c1d9-44fa-8b64-de6fe5dd8e37" scheme="_@user_Default" />
+    </lafs-to-previous-schemes>
+  </component>
+</application>

@@ -1,0 +1,19 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/projects/fmk-imc" value="true" />
+        <entry key="$USER_HOME$/projects/hmm-dma" value="true" />
+        <entry key="$USER_HOME$/projects/hmm-misc" value="true" />
+        <entry key="$USER_HOME$/projects/hmm-notify" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/projects" />
+      </list>
+    </option>
+  </component>
+</application>

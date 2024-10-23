@@ -1,0 +1,5 @@
+{
+  "readOnlySources": [{
+    "url": "git@gitlab.hsoftware.com:fmagniez/idea-settings.git"
+  }]
+}

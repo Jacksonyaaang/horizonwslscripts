@@ -1,0 +1,125 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="19.0" />
+    <option name="ideScale" value="0.7" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;BuildView.Splitter.Proportion&quot;: &quot;0.21932682&quot;,
+    &quot;FileTemplates.SelectedTemplate&quot;: &quot;HTML File&quot;,
+    &quot;FindSplitterProportion&quot;: &quot;0.32994923&quot;,
+    &quot;GradleSupport.showInternalTestNodes&quot;: &quot;false&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;full screen\nfull scre\nfull sc\nfull\nfu&quot;,
+    &quot;KEYMAP&quot;: &quot;rename\nblock Comment\nLine Comment\nstructure\nclose tab&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;7&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators&quot;: &quot;IU-241.18034.62&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;setting repo\nsetting\nsettin\nsett&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;RunOnceActivity.Run Grazie Token Refresher&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.java.code.vision.default.position.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.llm.installer.activate.toolwindow&quot;: &quot;true&quot;,
+    &quot;SettingsSearchHistory&quot;: &quot;Toggle Fullscreen\nsize\ncolor\nicon color\nicon&quot;,
+    &quot;SonarLint.firstAutoAnalysisDate&quot;: &quot;1721413748139&quot;,
+    &quot;SonarLint.lastPromotionNotificationDate&quot;: &quot;1729238460629&quot;,
+    &quot;SonarLint.wasReportEverUsed&quot;: &quot;true&quot;,
+    &quot;SqlStructureView.filterD.file.structure.state&quot;: &quot;true&quot;,
+    &quot;TextEditorWithPreview.SplitterProportionKey&quot;: &quot;0.64257026&quot;,
+    &quot;Vcs.Log.Text.Filter.History&quot;: &quot;request\nreplace\ndouble&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;build.toolwindow.Build Output.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.run.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor&quot;: &quot;Sources&quot;,
+    &quot;combined.diff.badge.shown&quot;: &quot;true&quot;,
+    &quot;debugger.smart.chooser.counter&quot;: &quot;3&quot;,
+    &quot;decompiler.legal.notice.accepted&quot;: &quot;true&quot;,
+    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
+    &quot;enter_selection_count&quot;: &quot;1&quot;,
+    &quot;evlsprt3.241&quot;: &quot;3&quot;,
+    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;241.18034.62&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;filter_non_existing&quot;: &quot;true&quot;,
+    &quot;find.popup.splitter&quot;: &quot;0.51419556&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;24.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;24.0&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.show.diff.in.editor&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.sonarlint.clean.code.tooltip&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.sonarlint.focus.new.code.tooltip&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.sonarlint.traffic.light.tooltip&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;IU-241.18034.62&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;ide.updates.previous.build.number&quot;: &quot;IU-241.18034.62&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;241.18034.62-IJ&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jks/projects/hmm-dma&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;AI_ASSISTANT&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Visual Studio Code Dark Plus&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IU-241.18034.62&quot;,
+    &quot;tab_selection_count&quot;: &quot;4&quot;,
+    &quot;toolwindow.showToolWindowsNames.ts&quot;: &quot;2024-08-09T16:29:28.917281146&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;5.4.3&quot;,
+    &quot;vcs.log.diff.splitter.proportion&quot;: &quot;0.9342252&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/jks/projects/hmm-misc&quot;,
+      &quot;/home/jks/projects/hmm-notify&quot;,
+      &quot;/home/jks/projects/fmk-imc&quot;,
+      &quot;/home/jks/projects/hmm-dma&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.intellij.profiler.ultimate.hprof.impl.HprofFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "Rename": 1721415825042,
+    "CtrlW": 1729085257868,
+    "SpeedSearch": 1729152485124,
+    "FocusProjectToolWindow": 1721645187439,
+    "RecentFiles": 1729581652557,
+    "SpringURLNavigation": 1729667802876,
+    "CommentCode": 1721809232845,
+    "ShowUsages": 1729238381911,
+    "ContextActions": 1729346512480,
+    "LayoutCode": 1722675027821,
+    "OverrideImplementMethods": 1729424702007,
+    "CamelHumpsInCodeCompletion": 1729462216404,
+    "CtrlShiftI": 1722831687383
+  },
+  "proposedTips": {
+    "Rename": 1721415824877,
+    "CtrlW": 1729085257654,
+    "SpeedSearch": 1729152484992,
+    "FocusProjectToolWindow": 1721645187296,
+    "RecentFiles": 1729581652126,
+    "SpringURLNavigation": 1729667802699,
+    "CommentCode": 1721809232362,
+    "ShowUsages": 1729238381324,
+    "ContextActions": 1729346512183,
+    "LayoutCode": 1722675027546,
+    "OverrideImplementMethods": 1729424701589,
+    "CamelHumpsInCodeCompletion": 1729462215732,
+    "CtrlShiftI": 1722831687092
+  },
+  "tipsOrderSeed": 1721415824823
+}]]></component>
+</application>

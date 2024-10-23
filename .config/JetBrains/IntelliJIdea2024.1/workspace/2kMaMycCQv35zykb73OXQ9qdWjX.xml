@@ -1,0 +1,979 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hmm-notify" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3fdtq26hjzbw9" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-teams/src/main/java/com/hsoft/notify/gateways/teams/svc/TeamsServiceAPIImpl.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1330">
+              <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCBaseStore.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="190">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCStoreByTargetBuilder.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="152">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCDataStore.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-1368">
+              <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+              <folding>
+                <element signature="e#4575#4576#0" expanded="true" />
+                <element signature="e#4626#4627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCGraphStore.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="190">
+              <caret line="22" column="70" selection-end-line="185" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCStoreBuilder.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="722">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/NSJDBC.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="836">
+              <caret line="22" column="5" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-store-object-cache/src/main/java/com/hsoft/notify/stores/objectcache/ObjectCacheDataStore.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="4560">
+              <caret line="120" column="49" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-store-api/src/main/java/com/hsoft/notify/stores/graph/GraphStore.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="152">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-teams/src/test/java/com/hsoft/notify/gateways/teams/TeamsGatewayModuleTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="760">
+              <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/ObjectCache.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="418">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/NoFilter.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="152">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-email/src/test/java/com/hsoft/notify/gateways/email/EmailGatewayModuleTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2888">
+              <caret line="95" selection-end-line="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-tests/src/test/java/com/hsoft/notify2/TestNotificationServerRx.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="228">
+              <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/notify-tests/src/test/java/com/hsoft/notify2/MockRxGateway.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="304">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1723386280991
+    },
+    "JAVA": {
+      "usageCount": 163,
+      "lastUsed": 1729085250771
+    },
+    "DIFF": {
+      "usageCount": 1,
+      "lastUsed": 1723215029363
+    },
+    "CLASS": {
+      "usageCount": 12,
+      "lastUsed": 1723817782465
+    },
+    "JSON": {
+      "usageCount": 2,
+      "lastUsed": 1723471917045
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fictif</find>
+      <find>mailservice</find>
+      <find>cache</find>
+      <find>teamsservice</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/notify-email/src/test/java/com/hsoft/notify/gateways/email</dir>
+      <dir>$PROJECT_DIR$/notify-watcher-rest-plugin/src/main/java/com/hsoft/notify/watcher/rest</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCDataStore.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="163" lastUsage="1729085250771" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="2" lastUsage="1723471917045" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1723386280991" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="stores" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-jdbc" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="stores" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="jdbc" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="stores" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="stores" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="objectcache" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-store-object-cache" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="gateways" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="notify-teams" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="notify" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="gateways" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="teams" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="util" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hmm-notify" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hmm-notify" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="object-cache" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hsoft" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="util" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cache" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27332000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50051785" visible="true" weight="0.16119792" />
+      <window_info id="Commit" order="1" weight="0.22226563" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" sideWeight="0.49948215" side_tool="true" weight="0.22226563" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.28164557" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="PackageSearch" order="5" />
+      <window_info anchor="bottom" id="SequenceDiagram" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33007812" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33007812" />
+      <window_info anchor="right" id="Database" order="2" weight="0.33007812" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.2501302" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.33007812" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="6" weight="0.33007812" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.33007812" />
+      <unified_weights bottom="0.28164557" left="0.16119792" right="0.2501302" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Structure</value>
+      <value>Database</value>
+      <value>Notifications</value>
+      <value>AIAssistant</value>
+      <value>GitHub Copilot Chat</value>
+      <value>github.copilotToolWindow</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2020" y="134" width="3640" height="1854" key="DiffContextDialog" timestamp="1723215367670">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="2020" y="134" width="3640" height="1854" key="DiffContextDialog/1920.0.3840.2088/0.1074.1920.1080@1920.0.3840.2088" timestamp="1723215367670" />
+    <state x="2562" y="173" key="FileChooserDialogImpl" timestamp="1729085287204">
+      <screen x="1920" y="0" width="1920" height="1032" />
+    </state>
+    <state x="2562" y="173" key="FileChooserDialogImpl/1920.0.1920.1032/0.379.1920.1080/3840.9.1920.1080@1920.0.1920.1032" timestamp="1729085287204" />
+    <state x="3104" y="534" key="SettingsEditor" timestamp="1723817893296">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3104" y="534" key="SettingsEditor/1920.0.3840.2088/0.1074.1920.1080@1920.0.3840.2088" timestamp="1723817893296" />
+    <state x="3249" y="319" width="1176" height="846" key="find.popup" timestamp="1723818249884">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3249" y="319" width="1176" height="846" key="find.popup/1920.0.3840.2088/0.1074.1920.1080@1920.0.3840.2088" timestamp="1723818249884" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk2-soa/soa-api/2.187.0/ff98606802906f75818fbb97b4d55cce2cff0611/soa-api-2.187.0.jar!/com/ingalys/soa/SOAContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-teams/src/main/resources/notify-teams/adaptivecards/defaultTeamsAdaptiveCard.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk2-soa/soa-api/2.187.0/ff98606802906f75818fbb97b4d55cce2cff0611/soa-api-2.187.0.jar!/com/ingalys/soa/AbstractAPI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="100" selection-start-line="11" selection-start-column="100" selection-end-line="11" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk2-soa/soa-api/2.187.0/ff98606802906f75818fbb97b4d55cce2cff0611/soa-api-2.187.0.jar!/com/ingalys/soa/API.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-server-core/src/main/java/com/hsoft/notify/BoxDescriptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1280">
+          <caret line="39" column="44" selection-start-line="39" selection-start-column="44" selection-end-line="39" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-tests/src/test/java/com/hsoft/notify/stores/PersistenceWithH2BackendTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-server/src/main/java/com/hsoft/notify2/persistence/objectcache/MemoryNotifyPersistence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-server/src/main/java/com/hsoft/notify2/persistence/objectcache/NotifyPersistence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-server/src/main/java/com/hsoft/notify2/persistence/objectcache/jdbc/DeliveryStatusQueryDBFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-server/src/main/java/com/hsoft/notify2/persistence/objectcache/jdbc/DeliveryStatusDBFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-server/src/main/java/com/hsoft/notify2/persistence/objectcache/jdbc/InboxSubscriptionDBFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-server/src/main/java/com/hsoft/notify2/persistence/objectcache/jdbc/JDBCNotifyPersistence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="44" column="4" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-tests/src/main/java/com/hsoft/notfiy/tests/NotifyTestUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-tests/src/test/java/com/hsoft/notify2/persistence/ObjectCacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="36" column="7" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-email/src/test/java/com/hsoft/notify/gateways/email/EmailGatewayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3840">
+          <caret line="134" column="47" selection-start-line="134" selection-start-column="47" selection-end-line="134" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-email/src/main/java/com/hsoft/notify2/gateways/email/EmailRxGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk2-soa/soa-mail-api/2.187.0/e75cef6927abb3f5924b3223cd9ea466a38c4c32/soa-mail-api-2.187.0.jar!/com/ingalys/soa/mail/MailService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-watcher-rest-plugin/src/test/java/WatcherRestPluginModuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6800">
+          <caret line="195" column="15" selection-start-line="195" selection-start-column="15" selection-end-line="195" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-watcher-rest-plugin/src/main/java/com/hsoft/notify/watcher/rest/doc/NotificationPublisherGenAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-watcher-rest-plugin/src/main/java/com/hsoft/notify/watcher/rest/NotifyWatcherRestPluginBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-watcher-rest-plugin/src/main/java/com/hsoft/notify/watcher/rest/WatcherRestSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-watcher-rest-plugin/src/main/java/com/hsoft/notify/watcher/rest/PublishBatchQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-watcher-rest-plugin/src/main/java/com/hsoft/notify/watcher/rest/NotifyWatcherRestPluginByTargetBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk2-soa/soa-api/2.187.0/ff98606802906f75818fbb97b4d55cce2cff0611/soa-api-2.187.0.jar!/com/ingalys/soa/Service.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-watcher-rest-plugin/src/main/java/com/hsoft/notify/watcher/rest/NotifyWatcherRestPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1960">
+          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/MemoryObjectCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#745#746#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/jdbc/DBField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/jdbc/DBFieldSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/jdbc/EmptyFieldSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/jdbc/JDBCObjectCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/jdbc/JDBCObjectCacheConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/jdbc/QueryFieldSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-object-cache/src/main/java/com/hsoft/notify/stores/objectcache/ObjectCacheGraphStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2660">
+          <caret line="71" column="53" selection-start-line="71" selection-start-column="53" selection-end-line="71" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-teams/src/test/java/com/hsoft/notify/gateways/teams/TeamsGatewayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-teams/src/main/java/com/hsoft/notify/gateways/teams/TeamsNotification.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1482">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-teams/src/main/java/com/hsoft/notify/gateways/teams/svc/TeamsServiceAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-teams/src/main/java/com/hsoft/notify/gateways/teams/svc/TeamsServiceAPIImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="61" column="59" selection-start-line="61" selection-start-column="59" selection-end-line="61" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCBaseStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCStoreByTargetBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCGraphStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="22" column="70" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCStoreBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/NSJDBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="22" column="5" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-object-cache/src/main/java/com/hsoft/notify/stores/objectcache/ObjectCacheDataStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="120" column="49" selection-start-line="120" selection-start-column="49" selection-end-line="120" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-api/src/main/java/com/hsoft/notify/stores/graph/GraphStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-teams/src/test/java/com/hsoft/notify/gateways/teams/TeamsGatewayModuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/ObjectCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object-cache/src/main/java/com/hsoft/util/cache/NoFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-email/src/test/java/com/hsoft/notify/gateways/email/EmailGatewayModuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2888">
+          <caret line="95" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-tests/src/test/java/com/hsoft/notify2/TestNotificationServerRx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-tests/src/test/java/com/hsoft/notify2/MockRxGateway.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notify-store-jdbc/src/main/java/com/hsoft/notify/stores/jdbc/JDBCDataStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1368">
+          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
+          <folding>
+            <element signature="e#4575#4576#0" expanded="true" />
+            <element signature="e#4626#4627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

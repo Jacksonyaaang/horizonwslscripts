@@ -1,0 +1,277 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="17" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;17.0.12&quot;" />
+      <homePath value="/usr/lib/jvm/zulu17" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///usr/lib/jvm/zulu17!/com.azul.crs.client" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/com.azul.tooling" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.base" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.datatransfer" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.instrument" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.logging" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.management.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.naming" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.net.http" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.prefs" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.scripting" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.se" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.security.sasl" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.smartcardio" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.sql" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.sql.rowset" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.transaction.xa" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.xml" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/java.xml.crypto" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.accessibility" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.attach" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.charsets" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.dynalink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.editpad" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.httpserver" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.incubator.vector" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.internal.le" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jartool" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.javadoc" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jcmd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jconsole" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jdeps" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jdi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jlink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jpackage" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jshell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jsobject" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.jstatd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.localedata" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.management.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.net" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.random" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.sctp" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.security.auth" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.unsupported" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/17/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="zulu-17" />
+      <type value="JavaSDK" />
+      <version value="Azul Zulu 17.0.12" />
+      <homePath value="/usr/lib/jvm/zulu17-ca-amd64" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/com.azul.crs.client" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/com.azul.tooling" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.base" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.datatransfer" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.instrument" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.logging" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.management.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.naming" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.net.http" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.prefs" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.scripting" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.se" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.security.sasl" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.smartcardio" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.sql" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.sql.rowset" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.transaction.xa" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.xml" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.xml.crypto" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.accessibility" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.attach" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.charsets" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.dynalink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.editpad" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.httpserver" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.incubator.foreign" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.incubator.vector" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.internal.le" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jartool" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.javadoc" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jcmd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jconsole" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jdeps" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jdi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jlink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jpackage" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jshell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jsobject" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.jstatd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.localedata" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.management.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.net" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.random" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.sctp" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.security.auth" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.unsupported" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///usr/lib/jvm/zulu17-ca-amd64!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="jbr-17" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime 17.0.11" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/gluegen.rt" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.base" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.instrument" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.logging" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.naming" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.net.http" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.prefs" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.scripting" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.se" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jcef" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.net" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.zipfs" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jogl.all" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+  </component>
+</application>

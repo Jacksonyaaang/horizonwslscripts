@@ -1,0 +1,171 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="fmk-imc" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="q9okuhkrc94h" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imc-service-api/src/main/java/com/ingalys/rules/Rule.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1320">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/imc-service-api/src/main/java/com/ingalys/rules/AbstractPredicateRule.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="353">
+              <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imc-service-api/src/main/java/com/ingalys/rules/AbstractRule.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="3600">
+              <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 30,
+      "lastUsed": 1723103360076
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1721693538997
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>positionEffect</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/imc-service-api/src/main/java/com/ingalys/rules</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="30" lastUsage="1723103360076" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1721693538998" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fmk-imc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/fmk-imc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8220000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15091145" />
+      <window_info id="Commit" order="1" weight="0.2815104" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="PackageSearch" order="5" />
+      <window_info anchor="bottom" id="SequenceDiagram" order="6" />
+      <window_info anchor="bottom" id="Services" order="7" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="6" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" />
+      <unified_weights left="0.15091145" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="642" y="170" key="FileChooserDialogImpl" timestamp="1721737691948">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="642" y="170" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1721737691948" />
+    <state x="665" y="165" width="904" height="846" key="find.popup" timestamp="1721737686604">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="665" y="165" width="904" height="846" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721737686604" />
+    <state x="3249" y="319" width="991" height="884" key="find.popup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1721727825318" />
+    <state x="3333" y="467" width="1009" height="1546" key="search.everywhere.popup" timestamp="1721693618587">
+      <screen x="1920" y="0" width="3840" height="2088" />
+    </state>
+    <state x="3333" y="467" width="1009" height="1546" key="search.everywhere.popup/1920.0.3840.2088/0.952.1920.1080@1920.0.3840.2088" timestamp="1721693618587" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/imc-service-api/src/main/java/com/ingalys/rules/Rule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-service-api/src/main/java/com/ingalys/rules/AbstractRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="91" column="28" selection-start-line="91" selection-start-column="28" selection-end-line="91" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imc-service-api/src/main/java/com/ingalys/rules/AbstractPredicateRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,35 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2024-02-22T13:42:14</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-02-22T14:20:51</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="8aff80" />
+    <option name="FILESTATUS_COPIED" value="8aff80" />
+    <option name="FILESTATUS_DELETED" value="6272a4" />
+    <option name="FILESTATUS_HIJACKED" value="feff80" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6272a4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="f89580" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f780bf" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f780bf" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f780bf" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="85e89d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="73bd79" />
+    <option name="FILESTATUS_MERGED" value="9580ff" />
+    <option name="FILESTATUS_MODIFIED" value="80ffea" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80ffea" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80ffea" />
+    <option name="FILESTATUS_OBSOLETE" value="f89580" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
+    <option name="FILESTATUS_SUPPRESSED" value="6272a4" />
+    <option name="FILESTATUS_SWITCHED" value="f89580" />
+    <option name="FILESTATUS_UNKNOWN" value="9580ff" />
+    <option name="FILESTATUS_addedOutside" value="feff80" />
+    <option name="FILESTATUS_changelistConflict" value="f780bf" />
+    <option name="FILESTATUS_modifiedOutside" value="9580ff" />
+  </colors>
+</scheme>

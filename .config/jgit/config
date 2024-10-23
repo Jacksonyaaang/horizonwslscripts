@@ -1,0 +1,15 @@
+[filesystem "Azul Systems, Inc.|17.0.12|/dev/sdb"]
+	timestampResolution = 2976 nanoseconds
+	minRacyThreshold = 17236 microseconds
+[filesystem "Azul Systems, Inc.|17.0.12|/dev/sdc"]
+	timestampResolution = 2729 nanoseconds
+	minRacyThreshold = 12795 microseconds
+[filesystem "JetBrains s.r.o.|17.0.11|/dev/sdc"]
+	timestampResolution = 2574 nanoseconds
+	minRacyThreshold = 19854 microseconds
+[filesystem "JetBrains s.r.o.|17.0.11|/dev/sde"]
+	timestampResolution = 5262 nanoseconds
+	minRacyThreshold = 11893 microseconds
+[filesystem "Azul Systems, Inc.|17.0.12|/dev/sde"]
+	timestampResolution = 3500 nanoseconds
+	minRacyThreshold = 11138 microseconds

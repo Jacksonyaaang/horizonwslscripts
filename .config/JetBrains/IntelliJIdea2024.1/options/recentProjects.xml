@@ -1,0 +1,74 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/projects/hmm-dma">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hmm-dma – DMROrderChannel.java [hmm-dma.imc-dma-router.main]" projectWorkspaceId="2jTKPdV9LHWMfY4PvTDmJx6lSNP">
+              <option name="activationTimestamp" value="1723213516443" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="1920" y="34" width="3840" height="2054" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1721737698828" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/fmk-imc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fmk-imc – AbstractPredicateRule.java [fmk-imc.imc-service-api.main]" projectWorkspaceId="2jck1M3K6eWlrbtBpl0MEQnR9Jy">
+              <option name="activationTimestamp" value="1721809358612" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1920" y="34" width="3840" height="2054" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1721809360169" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/hmm-notify">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hmm-notify – JDBCDataStore.java [hmm-notify.notify-store-jdbc.main]" projectWorkspaceId="2kMaMycCQv35zykb73OXQ9qdWjX">
+              <option name="activationTimestamp" value="1729085288601" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="23" width="1920" height="1009" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1723213514710" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/projects/hmm-misc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="hmm-misc – SchedulerUtils.java [hmm-misc.hmm-scheduler.main]" opened="true" projectWorkspaceId="2nWOIj7Zo32QtRpNj4i6lmT43JV">
+              <option name="activationTimestamp" value="1729690621386" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-241.18034.62" />
+              <option name="buildTimestamp" value="1718905980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="2434" y="570" width="1082" height="1093" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1729085288287" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/projects/hmm-misc" />
+    <option name="lastProjectLocation" value="$USER_HOME$/projects" />
+  </component>
+</application>

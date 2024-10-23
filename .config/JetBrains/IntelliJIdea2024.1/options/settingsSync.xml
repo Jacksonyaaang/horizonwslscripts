@@ -1,0 +1,23 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="Pythonid" />
+              <option value="com.dmarcotte.handlebars" />
+              <option value="com.hand.ikunProgress" />
+              <option value="com.jetbrains.packagesearch.intellij-plugin" />
+              <option value="com.jetbrains.space" />
+              <option value="com.markskelton.one-dark-theme" />
+              <option value="com.samdark.intellij-visual-studio-code-dark-plus" />
+              <option value="monokai-pro" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="syncEnabled" value="true" />
+  </component>
+</application>

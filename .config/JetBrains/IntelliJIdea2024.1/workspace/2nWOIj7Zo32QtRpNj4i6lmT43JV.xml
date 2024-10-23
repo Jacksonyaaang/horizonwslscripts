@@ -1,0 +1,970 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="hmm-misc" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:ET-36568-Scheduler-Hedger-Task-should-take-into-account-for-Ul-Id-and-economic-zone" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="DockManager">
+    <window id="1" withNorthPanel="true" withToolWindowPane="true">
+      <content type="file-editors">
+        <state>
+          <leaf ideFingerprint="3fdtq26hjzbw9">
+            <file>
+              <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/automan/AutomanUtilsTest.java">
+                <provider editor-type-id="text-editor" selected="true">
+                  <state relative-caret-position="1234">
+                    <caret line="112" column="4" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="79" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file current-in-tab="false">
+              <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_EconomicZone.class">
+                <provider editor-type-id="text-editor" selected="true">
+                  <state relative-caret-position="156">
+                    <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3fdtq26hjzbw9">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/SchedulerUtils.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="509">
+              <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/hedger/HedgerSchedulerTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="520">
+              <caret line="117" column="54" lean-forward="true" selection-start-line="117" selection-start-column="54" selection-end-line="117" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="mock:///Diff">
+          <provider editor-type-id="BackendDiffFileEditorProvider" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_EconomicZone.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-1995">
+              <caret line="95" column="15" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/automan/AutomanUtilsTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="369">
+              <caret line="112" column="49" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_AutoHedge.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="572">
+              <caret line="169" column="30" lean-forward="true" selection-start-line="169" selection-start-column="30" selection-end-line="169" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_Automaton.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="104">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/StoreMappings.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="281">
+              <caret line="26" column="50" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_PricingStream.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-3406">
+              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk-core/icapi-core/16.159.0/aa8b506ef3e84dceb11477302eb5351740395f78/icapi-core-16.159.0.jar!/com/ingalys/util/appctx/AppContextUtils.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="228">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+              <folding>
+                <element signature="e#1026#1027#0" expanded="true" />
+                <element signature="e#1082#1083#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/SchedulerBaseTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="270">
+              <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/remote/BaseAccessor.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="95" column="23" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+              <folding>
+                <element signature="e#3264#3265#0" expanded="true" />
+                <element signature="e#3321#3322#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hsdk-core/hspersist/14.28.0/29f388e71bd56c2fce1b07c18a7661825b259eeb/hspersist-14.28.0.jar!/com/hsoft/persist/AbstractBase.class">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="182">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmm-scheduler/core/src/com/hsoft/hmm/scheduler/process/HMMScheduler.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+              <folding>
+                <element signature="e#3512#3513#0" expanded="true" />
+                <element signature="e#3552#3553#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/SchedulerTimeUtilsTest.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="130">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 11,
+      "lastUsed": 1729238493593
+    },
+    "ReST": {
+      "usageCount": 2,
+      "lastUsed": 1729238358876
+    },
+    "Gradle": {
+      "usageCount": 1,
+      "lastUsed": 1729238443351
+    },
+    "JAVA": {
+      "usageCount": 75,
+      "lastUsed": 1729677346511
+    },
+    "CLASS": {
+      "usageCount": 36,
+      "lastUsed": 1729685872395
+    },
+    "DIFF": {
+      "usageCount": 10,
+      "lastUsed": 1729686713061
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WORLD_ECONOMIC_ZONE</find>
+      <find>HMMScheduledCommandParameter cmdPara6</find>
+      <find>SchedulerUtils</find>
+      <find>List&lt;AutomatonKeyData&gt; productList = SchedulerUtils</find>
+      <find>productList</find>
+      <find>hasUlInEconomicZone</find>
+      <find>getAllProductList</find>
+      <find>getall</find>
+      <find>AutoHedge</find>
+      <find>portfolio</find>
+      <find>StoreSelection</find>
+      <find>hedgeContext</find>
+      <find>getHedgerListByUlId</find>
+      <find>getUlHedgerList</find>
+      <find>getAutoHedgeStore</find>
+      <find>getauto</find>
+      <find>store</find>
+      <find>setparameters</find>
+      <find>properties.getProperty</find>
+      <find>getAvailableParameters</find>
+      <find>retrieve</find>
+      <find>get</find>
+      <find>getUlId</find>
+      <find>economicZone = properties.getProperty(ECONOMIC_ZONE_PROPERTY);</find>
+      <find>valid</find>
+      <find />
+      <find>the hedger successfully for ulId</find>
+      <find>No hedger units found for ulId</find>
+      <find>retrieveHedgerKeyDataList</find>
+      <find>testHedgerSchedulerIsStarted</find>
+      <find>execute</find>
+      <find>testHedgerSchedulerIsStoppedAndOrdersCancelled</find>
+      <find>file</find>
+      <find>SchedulerBaseTest</find>
+      <find>base</find>
+      <find>initDictionary</find>
+      <find>StoreSelectionFactory</find>
+      <find>getAutomatonRecord</find>
+      <find>hedge</find>
+      <find>automatonStore</find>
+      <find>Tbl_AutoHedge</find>
+      <find>AppContext appContext = new DefaultAppContext();</find>
+      <find>economic</find>
+      <find>AppContext appContext = new DefaultAppContext</find>
+      <find>economicZoneStore</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/hedger</dir>
+      <dir>$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="GitBranchesPopupTreeState">
+    <expand>
+      <path>
+        <item name="TreeRoot" type="41d8a9c2:GitBranchesTreeModel$TreeRoot" />
+        <item name="LOCAL" type="ae103dac:GitBranchType" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/hedger/IHMMHedgerCommandProperties.java" />
+      <option value="$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/hedger/HedgerKeyData.java" />
+      <option value="$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/hedger/HedgerScheduler.java" />
+      <option value="$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/SchedulerUtils.java" />
+      <option value="$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/automan/AutomanUtilsTest.java" />
+      <option value="$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/hedger/HedgerSchedulerTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="1" lastUsage="1729238443351" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="75" lastUsage="1729677346511" />
+    </language>
+    <language id="ReST">
+      <summary usageCount="2" lastUsage="1729238358876" />
+    </language>
+    <language id="XML">
+      <summary usageCount="11" lastUsage="1729238493593" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src/com/hsoft/hmm/scheduler}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src/com/hsoft/hmm/scheduler}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/automan}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src/com/hsoft/hmm/scheduler}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/deltaone}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hmm-misc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src/com/hsoft/hmm/scheduler}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/jks/projects/hmm-misc/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/hedger}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.HedgerSchedulerTest.testHedgerSchedulerStartsWithWildcardUlId" />
+      <element setting="Gradle.HedgerSchedulerTest.testHedgerSchedulerIsStarted" />
+      <element setting="Gradle.HedgerSchedulerTest.testHedgerSchedulerIsStoppedAndOrdersCancelled" />
+      <element setting="Gradle.HedgerSchedulerTest.testHedgerSchedulerIsStopped" />
+      <element setting="Gradle.HedgerSchedulerTest.testHedgerSchedulerStopsWithWildcardUlId" />
+      <element setting="Gradle.hmm-misc [publish]" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStarted - 2024.10.23 at 14h 17m 18s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStarted" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStopped - 2024.10.23 at 14h 17m 29s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStopped" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStoppedAndOrdersCancelled - 2024.10.23 at 14h 17m 32s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStoppedAndOrdersCancelled" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStarted - 2024.10.23 at 14h 18m 59s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStarted" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStopped - 2024.10.23 at 14h 19m 03s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStopped" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStoppedAndOrdersCancelled - 2024.10.23 at 14h 19m 06s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStoppedAndOrdersCancelled" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerStartsWithWildcardUlId - 2024.10.23 at 14h 28m 32s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerStartsWithWildcardUlId" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStoppedAndOrdersCancelled - 2024.10.23 at 14h 28m 54s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStoppedAndOrdersCancelled" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerIsStarted - 2024.10.23 at 14h 29m 07s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerIsStarted" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="HedgerSchedulerTest_testHedgerSchedulerStartsWithWildcardUlId - 2024.10.23 at 14h 29m 23s.xml">
+      <configuration name="HedgerSchedulerTest.testHedgerSchedulerStartsWithWildcardUlId" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64584000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50057733" weight="0.1768868" />
+      <window_info active="true" id="Commit" order="1" sideWeight="0.5006361" visible="true" weight="0.1768868" />
+      <window_info id="Welcome to GitHub Copilot" order="2" sideWeight="0.7020697" weight="0.1648323" />
+      <window_info id="Bookmarks" order="3" sideWeight="0.49942264" side_tool="true" weight="0.1768868" />
+      <window_info id="VcsChanges" order="4" weight="0.1543501" />
+      <window_info id="Structure" order="5" sideWeight="0.49945533" side_tool="true" weight="0.1648323" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.0935936" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="PackageSearch" order="5" />
+      <window_info anchor="bottom" id="SequenceDiagram" order="6" weight="0.33017033" />
+      <window_info anchor="bottom" id="Services" order="7" />
+      <window_info anchor="bottom" id="SonarLint" order="8" weight="0.32982984" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.3118118" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.8213213" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.14464465" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.18398437" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" weight="0.33007812" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.25" />
+      <window_info anchor="right" id="Python Console" order="6" show_stripe_button="false" weight="0.33007812" />
+      <window_info anchor="right" id="GitHub Copilot Chat" order="7" weight="0.33007812" />
+      <unified_weights bottom="0.14464465" left="0.1768868" right="0.18398437" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Bookmarks</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Build</value>
+      <value>SonarLint</value>
+      <value>VcsChanges</value>
+      <value>Structure</value>
+      <value>Welcome to GitHub Copilot</value>
+      <value>SequenceDiagram</value>
+      <value>Gradle</value>
+      <value>Python Console</value>
+      <value>GitHub Copilot Chat</value>
+      <value>github.copilotToolWindow</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2542" y="785" width="550" height="371" key="#xdebugger.evaluate.ideScale=70" timestamp="1729587373022">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="2542" y="785" width="550" height="371" key="#xdebugger.evaluate.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729587373022" />
+    <state width="958" height="538" key="DebuggerActiveHint.ideScale=70" timestamp="1729587675243">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="958" height="538" key="DebuggerActiveHint.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729587675243" />
+    <state x="2020" y="134" width="3640" height="1854" key="DiffContextDialog.ideScale=110" timestamp="1729440591555">
+      <screen x="0" y="0" width="5760" height="2160" />
+    </state>
+    <state x="2020" y="134" width="3640" height="1854" key="DiffContextDialog.ideScale=110/0.0.5760.2160@0.0.5760.2160" timestamp="1729440591555" />
+    <state x="2016" y="628" width="1634" height="705" key="DiffContextDialog.ideScale=70" timestamp="1729686771734">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="2016" y="628" width="1634" height="705" key="DiffContextDialog.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729686771734" />
+    <state width="1842" height="171" key="GridCell.Tab.0.bottom.ideScale=70" timestamp="1729686563875">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="171" key="GridCell.Tab.0.bottom.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729686563875" />
+    <state width="1842" height="171" key="GridCell.Tab.0.center.ideScale=70" timestamp="1729686563875">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="171" key="GridCell.Tab.0.center.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729686563875" />
+    <state width="1842" height="171" key="GridCell.Tab.0.left.ideScale=70" timestamp="1729686563875">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="171" key="GridCell.Tab.0.left.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729686563875" />
+    <state width="1842" height="171" key="GridCell.Tab.0.right.ideScale=70" timestamp="1729686563875">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="171" key="GridCell.Tab.0.right.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729686563875" />
+    <state width="1842" height="776" key="GridCell.Tab.1.bottom.ideScale=70" timestamp="1729676572729">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="776" key="GridCell.Tab.1.bottom.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729676572729" />
+    <state width="1842" height="776" key="GridCell.Tab.1.center.ideScale=70" timestamp="1729676572729">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="776" key="GridCell.Tab.1.center.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729676572729" />
+    <state width="1842" height="776" key="GridCell.Tab.1.left.ideScale=70" timestamp="1729676572728">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="776" key="GridCell.Tab.1.left.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729676572728" />
+    <state width="1842" height="776" key="GridCell.Tab.1.right.ideScale=70" timestamp="1729676572729">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="1842" height="776" key="GridCell.Tab.1.right.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729676572729" />
+    <state x="2622" y="643" width="454" height="615" key="RollbackChangesDialog.ideScale=70" timestamp="1729685964705">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="2622" y="643" width="454" height="615" key="RollbackChangesDialog.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729685964705" />
+    <state x="127" y="45" width="2420" height="1682" key="SettingsEditor" timestamp="1729346615176">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="2284" y="624" key="SettingsEditor.ideScale=110" timestamp="1729501908901">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="553" y="701" key="SettingsEditor.ideScale=110/0.0.3840.2160@0.0.3840.2160" timestamp="1729423798345" />
+    <state x="2369" y="312" key="SettingsEditor.ideScale=110/1920.0.3840.2088/0.1074.1920.1080@1920.0.3840.2088" timestamp="1729238399820" />
+    <state x="2284" y="624" key="SettingsEditor.ideScale=110/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729501908901" />
+    <state x="1888" y="433" width="1426" height="1080" key="SettingsEditor.ideScale=70" timestamp="1729515072851">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="225" y="161" width="1350" height="1050" key="SettingsEditor.ideScale=70/0.0.1920.1080@0.0.1920.1080" timestamp="1729346528359" />
+    <state x="2490" y="0" width="1350" height="1050" key="SettingsEditor.ideScale=70/1920.0.1920.1032/0.379.1920.1080/3840.9.1920.1080@1920.0.1920.1032" timestamp="1729157254825" />
+    <state x="1888" y="433" width="1426" height="1080" key="SettingsEditor.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729515072851" />
+    <state x="127" y="45" key="SettingsEditor/0.0.3840.2160@0.0.3840.2160" timestamp="1729346615176" />
+    <state x="2220" y="0" key="SettingsEditor/1920.0.1920.1032/0.379.1920.1080/3840.9.1920.1080@1920.0.1920.1032" timestamp="1729157022121" />
+    <state x="2369" y="312" width="2420" height="1682" key="SettingsEditor/1920.0.3840.2088/0.1074.1920.1080@1920.0.3840.2088" timestamp="1729238380192" />
+    <state x="2341" y="571" width="876" height="597" key="Vcs.Push.Dialog.v2.ideScale=70" timestamp="1729523624936">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="2341" y="571" width="876" height="597" key="Vcs.Push.Dialog.v2.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729523624936" />
+    <state width="992" height="548" key="XDebugger.FullValuePopup.ideScale=70" timestamp="1729587586746">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state width="992" height="548" key="XDebugger.FullValuePopup.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729587586746" />
+    <state x="3808" y="-17" width="1080" height="782" maximized="true" key="dock-window-1.ideScale=70" timestamp="1729674726312">
+      <screen x="3840" y="0" width="1080" height="1920" />
+    </state>
+    <state x="3808" y="-17" width="1080" height="782" maximized="true" key="dock-window-1.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729674726312" />
+    <state x="530" y="590" key="extract.method.dialog.ideScale=110" timestamp="1729425743846">
+      <screen x="0" y="0" width="3840" height="2160" />
+    </state>
+    <state x="530" y="590" key="extract.method.dialog.ideScale=110/0.0.3840.2160@0.0.3840.2160" timestamp="1729425743846" />
+    <state x="3315" y="570" width="1108" height="978" key="find.popup.ideScale=110" timestamp="1729456496035">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="3315" y="570" width="1108" height="978" key="find.popup.ideScale=110/1920.0.3840.2160/0.1074.1920.1080@1920.0.3840.2160" timestamp="1729456496035" />
+    <state x="2644" y="600" width="652" height="924" key="find.popup.ideScale=70" timestamp="1729668203802">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="2644" y="600" width="652" height="924" key="find.popup.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729668203802" />
+    <state x="2538" y="465" width="672" height="698" key="run.anything.popup.ideScale=70" timestamp="1729675787355">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="2538" y="465" width="672" height="698" key="run.anything.popup.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729675787355" />
+    <state x="3327" y="414" width="1010" height="1559" key="search.everywhere.popup.ideScale=110" timestamp="1729456486291">
+      <screen x="1920" y="0" width="3840" height="2160" />
+    </state>
+    <state x="1413" y="501" width="1009" height="1559" key="search.everywhere.popup.ideScale=110/0.0.3840.2160@0.0.3840.2160" timestamp="1729424782943" />
+    <state x="3029" y="450" width="1514" height="1559" key="search.everywhere.popup.ideScale=110/0.0.5760.2160@0.0.5760.2160" timestamp="1729440588760" />
+    <state x="3333" y="484" width="1009" height="1507" key="search.everywhere.popup.ideScale=110/1920.0.3840.2088/0.1074.1920.1080@1920.0.3840.2088" timestamp="1729244119793" />
+    <state x="3327" y="414" width="1010" height="1559" key="search.everywhere.popup.ideScale=110/1920.0.3840.2160/0.1074.1920.1080@1920.0.3840.2160" timestamp="1729456486291" />
+    <state x="2505" y="640" width="672" height="709" key="search.everywhere.popup.ideScale=70" timestamp="1729673987592">
+      <screen x="1920" y="465" width="1920" height="1080" />
+    </state>
+    <state x="2505" y="640" width="672" height="709" key="search.everywhere.popup.ideScale=70/1920.465.1920.1080/0.844.1920.1080/3840.0.1080.1920@1920.465.1920.1080" timestamp="1729673987592" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>record.portfolioId</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>WILDCARD.equals(ulId)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matchesPortfolio</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hmm-api/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-api-sample/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-scheduler-dependencies/src/main/java/horizontrader/plugins/hmm/scheduler/dependencies/SchedulerDependenciesPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/src/main/resources/uss-scheduler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-api/test/src/com/hsoft/hmm/api/RfeCheckTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1766">
+          <caret line="60" column="15" lean-forward="true" selection-start-line="60" selection-start-column="15" selection-end-line="60" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-api-sample/hsbuild.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-plugin-connections/doc/og-0011-HMM-Connection.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-api-sample/scripts/run-API_Sample.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-core/hmm-scheduler-client/12.42.0/68785e7ca0efcd8dcd45eb3500f0bf569e9fd2c1/hmm-scheduler-client-12.42.0.jar!/com/hsoft/hmm/scheduler/HMMScheduledCommandResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/automan/IHMMScheduledCommandProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-core/hmm-scheduler-client/12.42.0/68785e7ca0efcd8dcd45eb3500f0bf569e9fd2c1/hmm-scheduler-client-12.42.0.jar!/com/hsoft/hmm/scheduler/HMMScheduledCommandParameter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="24" column="69" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-core/hmm-scheduler-client/12.42.0/68785e7ca0efcd8dcd45eb3500f0bf569e9fd2c1/hmm-scheduler-client-12.42.0.jar!/com/hsoft/hmm/scheduler/SchedulerClientUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-core/hmm-scheduler-client/12.42.0/68785e7ca0efcd8dcd45eb3500f0bf569e9fd2c1/hmm-scheduler-client-12.42.0.jar!/com/hsoft/hmm/scheduler/HMMScheduledCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="12" column="43" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-core/hmm-scheduler-client/12.42.0/68785e7ca0efcd8dcd45eb3500f0bf569e9fd2c1/hmm-scheduler-client-12.42.0.jar!/com/hsoft/hmm/scheduler/AbstractScheduledCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///usr/lib/jvm/zulu17-ca-amd64!/java.base/java/util/List.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hsdk-core/hspersist/14.28.0/29f388e71bd56c2fce1b07c18a7661825b259eeb/hspersist-14.28.0.jar!/com/hsoft/persist/StoreSelection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/automan/AutomatonKeyData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/automan/AutomanScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1534">
+          <caret line="72" column="6" selection-start-line="72" selection-start-column="6" selection-end-line="72" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/hedger/HedgerScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="82" column="31" lean-forward="true" selection-start-line="82" selection-start-column="31" selection-end-line="82" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/hedger/HedgerKeyData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/4.7.0/5eeffd46d39ddd0c24666adaebc7ff62776642bd/mockito-core-4.7.0.jar!/org/mockito/Mockito.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="132" column="24" selection-start-line="132" selection-start-column="24" selection-end-line="132" selection-end-column="24" />
+          <folding>
+            <element signature="e#5630#5631#0" expanded="true" />
+            <element signature="e#5684#5685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/hedger/IHMMHedgerCommandProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-risk/hmm-hedger-client/10.27.0/abc6bab93720caa7e7553e39f50f9ff193099750/hmm-hedger-client-10.27.0.jar!/com/hsoft/hmm/hedger/remote/HedgerActionsRemote.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="113" column="16" selection-start-line="113" selection-start-column="16" selection-end-line="113" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/SchedulerTimeUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ingalys.fmk-core/icapi-core/16.159.0/aa8b506ef3e84dceb11477302eb5351740395f78/icapi-core-16.159.0.jar!/com/ingalys/util/appctx/AppContextUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/core/src/com/hsoft/hmm/scheduler/process/HMMScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="93" column="23" selection-start-line="93" selection-start-column="23" selection-end-line="93" selection-end-column="23" />
+          <folding>
+            <element signature="e#3512#3513#0" expanded="true" />
+            <element signature="e#3552#3553#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hsdk-core/hspersist/14.28.0/29f388e71bd56c2fce1b07c18a7661825b259eeb/hspersist-14.28.0.jar!/com/hsoft/persist/AbstractBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/remote/BaseAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="95" column="23" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
+          <folding>
+            <element signature="e#3264#3265#0" expanded="true" />
+            <element signature="e#3321#3322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/SchedulerBaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="28" lean-forward="true" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_PricingStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3406">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_Automaton.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_AutoHedge.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="169" column="30" lean-forward="true" selection-start-line="169" selection-start-column="30" selection-end-line="169" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/StoreMappings.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/client/src/com/hsoft/hmm/scheduler/SchedulerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="148" column="7" selection-start-line="148" selection-start-column="7" selection-end-line="148" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hsoft.hmm-broker/hmm-broker-client/16.14.0/d3adaff5de3650ec8e2fe9e661db692035726347/hmm-broker-client-16.14.0.jar!/com/hsoft/hmm/broker/api/tables/Tbl_EconomicZone.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1995">
+          <caret line="95" column="15" selection-start-line="95" selection-start-column="15" selection-end-line="95" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/automan/AutomanUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="112" column="49" selection-start-line="112" selection-start-column="32" selection-end-line="112" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hmm-scheduler/test/src/com/hsoft/hmm/scheduler/hedger/HedgerSchedulerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="117" column="54" lean-forward="true" selection-start-line="117" selection-start-column="54" selection-end-line="117" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>17</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>hmm-misc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.fasterxml.jackson.core:jackson-annotations:2.13.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
