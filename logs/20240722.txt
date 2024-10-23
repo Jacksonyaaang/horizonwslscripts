@@ -1,0 +1,3 @@
+2024-07-22 15:34:52.102 [1] [Fixsender] (INFO) (c) 2001-2011 ullink SAS. FixSender. Release 1.11.
+2024-07-22 15:36:30.442 [1] [Fixsender] (INFO) (c) 2001-2011 ullink SAS. FixSender. Release 1.11.
+2024-07-22 15:38:14.814 [1] [Fixsender] (INFO) (c) 2001-2011 ullink SAS. FixSender. Release 1.11.

@@ -1,0 +1,1 @@
+2023-11-10 14:46:44.490 [1] [Fixsender] (INFO) (c) 2001-2011 ullink SAS. FixSender. Release 1.11.

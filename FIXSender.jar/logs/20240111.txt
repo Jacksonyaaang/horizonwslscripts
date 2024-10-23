@@ -1,0 +1,7 @@
+2024-01-11 14:54:54.647 [1] [Fixsender] (INFO) (c) 2001-2011 ullink SAS. FixSender. Release 1.11.
+2024-01-11 14:55:07.052 [26] [FixSender] (INFO) try to connect to : localhost port :12345
+2024-01-11 14:55:09.075 [26] [FixSender] (WARNING) connection has failed :com.ullink.ulfix.TransportException: Connection refused: connect
+2024-01-11 14:55:09.075 [26] [FixSender] (WARNING) Disconnected
+2024-01-11 14:55:10.189 [28] [FixSender] (INFO) try to connect to : localhost port :12345
+2024-01-11 14:55:12.219 [28] [FixSender] (WARNING) connection has failed :com.ullink.ulfix.TransportException: Connection refused: connect
+2024-01-11 14:55:12.219 [28] [FixSender] (WARNING) Disconnected
