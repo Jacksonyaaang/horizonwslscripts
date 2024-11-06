@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Default environment
+ENV_NAME="LIME"
+
 # Function to update the psrv.zip
 update_psrv() {
     cd "/home/jks/test_psrv" || exit
@@ -19,7 +22,7 @@ update_psrv() {
     if [ -f psrv-all.jar ]; then
         rm psrv-all.jar
         echo "Deleted existing psrv-all.jar"
-        echo "successful delete the old version psvr jar   👴🏻 ......... . 🔫"
+        echo "Successfully deleted the old version of psrv jar 👴🏻 ......... . 🔫"
     fi
 
     # Find the JAR file and rename it
@@ -32,15 +35,17 @@ update_psrv() {
     mv "$JAR_FILE" psrv-all.jar
 
     echo "JAR file renamed to psrv-all.jar"
-
-    echo Update complete....🍺  🍺    🍺   🍺      🍺         🍺  
+    echo "Update complete....🍺  🍺    🍺   🍺      🍺         🍺"
 }
 
 # Parse options
-while getopts "u" opt; do
+while getopts "u:e:" opt; do
     case $opt in
         u)
             update_psrv
+            ;;
+        e)
+            ENV_NAME=$OPTARG
             ;;
         \?)
             echo "Invalid option: -$OPTARG" >&2
@@ -50,8 +55,9 @@ while getopts "u" opt; do
 done
 
 cd "/home/jks/test_psrv" || exit
+
 # Run the Java application
 java -Xmx4g -DredirectOutput=false -Dpsrv.preferNetInterface=en0 -Dlogging.impl=async -jar psrv-all.jar \
-    -env LIME \
+    -env "$ENV_NAME" \
     -setup DEVELOPMENT \
     -artifactoryHost artifactory.hsoftware.com
