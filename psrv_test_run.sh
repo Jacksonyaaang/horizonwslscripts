@@ -38,21 +38,23 @@ update_psrv() {
     echo "Update complete....🍺  🍺    🍺   🍺      🍺         🍺"
 }
 
-# Parse options
-while getopts "u:e:" opt; do
-    case $opt in
-        u)
-            update_psrv
-            ;;
-        e)
-            ENV_NAME=$OPTARG
-            ;;
-        \?)
-            echo "Invalid option: -$OPTARG" >&2
-            exit 1
-            ;;
-    esac
-done
+# Handle arguments
+if [ $# -eq 0 ]; then
+    # No arguments provided, run with default environment
+    echo "No arguments provided. Running with default environment: LIME"
+else
+    ARG=$1
+
+    if [ "$ARG" == "-u" ]; then
+        update_psrv
+        exit 0
+    elif [ "$ARG" == "lme" ]; then
+        ENV_NAME="LMEUK-STAGING"
+    else
+        echo "Invalid argument: $ARG"
+        exit 1
+    fi
+fi
 
 cd "/home/jks/test_psrv" || exit
 
